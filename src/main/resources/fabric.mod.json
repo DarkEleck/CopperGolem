@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "coppergolem",
+  "version": "${version}",
+
+  "name": "Copper Golem",
+  "description": " I made the Copper Golem from the Minecraft Live 2021 mob vote.",
+  "authors": [
+    "DarkEleck"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/coppergolem/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.darkeleck.coppergolem.Main"
+    ],
+    "client": [
+      "com.darkeleck.coppergolem.Client"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
