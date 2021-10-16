@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "coppergolem:block/copper_block"
+  }
+}
