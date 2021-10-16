@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Copper Golem",
-  "description": " I made the Copper Golem from the Minecraft Live 2021 mob vote.",
+  "description": "I made the Copper Golem from the  Minecraft Live 2021 mob vote.",
   "authors": [
     "DarkEleck"
   ],
   "contact": {
     "homepage": "",
-    "sources": ""
+    "sources": "https://github.com/DarkEleck/CopperGolem"
   },
 
   "license": "MIT",
